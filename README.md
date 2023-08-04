@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Patrick Fock, computer sciene student at the Philipps University Marburg
-- 👀 I’m interested in  Software Engineering with Java and Python and in Web Development
-- 🌱 I’m currently working as a developer at Digi4All.
+- 👋 Hi, I’m Patrick Fock, Software Developer at [COM-Software](https://github.com/COM-Software)
+- 👀 I’m currently doing Java and Web Development.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me: Mail: me@patrickfock.de | Discord: ayuriel#4830
+- 📫 How to reach me: Mail: patrickfock42@gmail.com | Discord: ayuriel#4830
 
 <!---
 Ariaste/Ariaste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
