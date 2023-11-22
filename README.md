@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Patrick Fock, Software Developer at [COM-Software](https://github.com/COM-Software)
 - 👀 I’m currently doing Java and Web Development.
-- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: Mail: patrickfock42@gmail.com | Discord: ayuriel#4830
 
 <!---
